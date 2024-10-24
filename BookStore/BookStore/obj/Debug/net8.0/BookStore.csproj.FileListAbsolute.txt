@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\yehudit\נסיון בתיקון באגים\נסיון בתיקון באגים\obj\Debug\net8.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\yehudit\נסיון בתיקון באגים\נסיון בתיקון באגים\obj\Debug\net8.0\BookStore.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\yehudit\נסיון בתיקון באגים\נסיון בתיקון באגים\obj\Debug\net8.0\BookStore.AssemblyInfo.cs
+C:\Users\USER\Documents\yehudit\נסיון בתיקון באגים\נסיון בתיקון באגים\obj\Debug\net8.0\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\yehudit\נסיון בתיקון באגים\נסיון בתיקון באגים\bin\Debug\net8.0\BookStore.exe
+C:\Users\USER\Documents\yehudit\נסיון בתיקון באגים\נסיון בתיקון באגים\bin\Debug\net8.0\BookStore.deps.json
+C:\Users\USER\Documents\yehudit\נסיון בתיקון באגים\נסיון בתיקון באגים\bin\Debug\net8.0\BookStore.runtimeconfig.json
+C:\Users\USER\Documents\yehudit\נסיון בתיקון באגים\נסיון בתיקון באגים\bin\Debug\net8.0\BookStore.dll
+C:\Users\USER\Documents\yehudit\נסיון בתיקון באגים\נסיון בתיקון באגים\bin\Debug\net8.0\BookStore.pdb
+C:\Users\USER\Documents\yehudit\נסיון בתיקון באגים\נסיון בתיקון באגים\obj\Debug\net8.0\BookStore.dll
+C:\Users\USER\Documents\yehudit\נסיון בתיקון באגים\נסיון בתיקון באגים\obj\Debug\net8.0\refint\BookStore.dll
+C:\Users\USER\Documents\yehudit\נסיון בתיקון באגים\נסיון בתיקון באגים\obj\Debug\net8.0\BookStore.pdb
+C:\Users\USER\Documents\yehudit\נסיון בתיקון באגים\נסיון בתיקון באגים\obj\Debug\net8.0\BookStore.genruntimeconfig.cache
+C:\Users\USER\Documents\yehudit\נסיון בתיקון באגים\נסיון בתיקון באגים\obj\Debug\net8.0\ref\BookStore.dll
